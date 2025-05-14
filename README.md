@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangalabankar13&label=Profile%20views&color=0e75b6&style=flat" alt="mangalabankar13" /> </p>
 
-- 🌱 I’m currently learning *Java, php, JavaScript, Python*
+- 🌱 Skilled in *Java, Data Structure & Algorithms, HTML, CSS, JavaScript, PHP, Python, SQL*
 
 - 👨‍💻 All of my projects are available at
 -  [https://github.com/Mangalabankar13](https://github.com/Mangalabankar13)
@@ -11,7 +11,7 @@
 - 📫 How to reach me
 -  *mangalabankar48@gmail.com*
 
-- ⚡ Fun fact *Hilarious😅*
+- ⚡ Fun fact *I judge apps by their dark mode quality😅*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
