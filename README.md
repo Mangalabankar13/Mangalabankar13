@@ -11,7 +11,7 @@
 - 📫 How to reach me
 -  *mangalabankar48@gmail.com*
 
-- ⚡ Fun fact *I judge apps by their dark mode quality😅*
+- ⚡ Fun fact  *I judge apps by their dark mode quality😅*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
